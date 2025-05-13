@@ -1,0 +1,55 @@
+[Productivity]
+Frequently misses deadlines and needs constant supervision.
+Delivers some tasks but misses project timelines often.
+Meets basic project expectations and completes work on time.
+Proactively completes tasks, often ahead of schedule.
+Delivers exceptional work with efficiency and self-discipline.
+
+[Teamwork]
+Rarely collaborates and struggles in team environments.
+Inconsistent in collaboration or communicating ideas.
+Participates in team discussions and shares responsibilities.
+Supports teammates proactively and shares credit.
+Acts as a role model in collaboration and encourages others.
+
+[Innovation]
+Lacks new ideas and sticks to routine solutions.
+Struggles to think creatively or suggest improvements.
+Contributes some practical ideas occasionally.
+Proposes relevant optimizations and automation opportunities.
+Leads innovation with new feature ideas and process changes.
+
+[Communication]
+Struggles to convey ideas and causes confusion in teams.
+Often unclear in written or verbal updates.
+Communicates adequately with clients and teammates.
+Explains ideas clearly and keeps stakeholders informed.
+Ensures clarity in meetings, emails, and client interactions.
+
+[Leadership]
+Avoids taking initiative or leading discussions.
+Rarely steps up or volunteers for responsibilities.
+Manages tasks when assigned and delegates decently.
+Guides peers during sprints and provides mentorship.
+Inspires others and manages complex situations gracefully.
+
+[Problem Solving]
+Needs support to resolve even minor bugs or blockers.
+Takes too long to identify or resolve issues.
+Can independently resolve moderate technical problems.
+Efficient in debugging and architectural analysis.
+Resolves issues others struggle with, often preventing them early.
+
+[Adaptability]
+Struggles to adjust to changing project requirements.
+Takes longer to adapt to new tools or workflows.
+Adapts decently under deadline pressures.
+Quickly adopts tech stacks and agile changes.
+Thrives in changing environments and adopts new practices rapidly.
+
+[Quality of Work]
+Code or documentation often lacks testing and clarity.
+Makes errors requiring frequent reviews or rollbacks.
+Produces work that passes reviews with minor revisions.
+Delivers maintainable, well-tested modules.
+Delivers polished, scalable, and reliable software consistently.
